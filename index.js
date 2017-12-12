@@ -7,7 +7,6 @@ const snekfetch = require('snekfetch');
 const fs = require("fs");
 const config = require("./assets/modules/config.json");
 const logger = require("./assets/modules/logger.js");
-var weather = require('weather-js');
 
 client.on("message", message => {
     if (message.author.bot) return;
