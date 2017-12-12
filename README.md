@@ -1,2 +1,2 @@
-# mello-botII
+# Mello Bot II
 This is the second version of Mello a bot originally based on TRID but that is enough back story ...
