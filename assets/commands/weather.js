@@ -1,6 +1,6 @@
-exports.run = (client, msg, args) => {
-    var weather = require('weather-js');
-    
+var weather = require('weather-js');
+
+exports.run = (client, msg, args) => {    
     // Options:
     // search:     location name or zipcode
     // degreeType: F or C
